@@ -1,8 +1,8 @@
 # 👋 Hello Devs! Welcome to my Github profile.
 ## My name is Ianes Alencastro e Silva Filho 
-<img src="https://github.com/ianesfilho/ianesfilho/assets/116043505/9c4cd7d9-70e3-4973-b33b-1cfc86cedb02" alt="inf" width="30" height="30">
-I am a computer science student.
-<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Coding" width="400" height="300">
+<img src="https://github.com/ianesfilho/ianesfilho/assets/116043505/9c4cd7d9-70e3-4973-b33b-1cfc86cedb02" alt="inf" width="30" height="30"> I am a computer science student.
+
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Coding" width="300" height="200">
 
 
 
